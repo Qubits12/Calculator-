@@ -1,5 +1,8 @@
+Project-summary
+
 # Calculator- Project plan
 Task 1: Create a repository and add the program files. 
+Project-summary
 Task 2: Import the required libraries. 
 Task 3: Define the calculator() function.
 Task 4: Create the GUI window with the title and create the buttons. 
